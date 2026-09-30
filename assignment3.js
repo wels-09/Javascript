@@ -52,6 +52,7 @@ for (let i = 0; i < word.length; i++)
     ; {
     if (word[i] === target) {
         count++;
+        
     }
 }
 console.log(count);
